@@ -1,0 +1,12 @@
+.gitignore 
+
+# Python environment and cache files
+__pycache__/
+*.pyc
+
+# Virtual Environment (Critical for size and portability)
+venv/
+.venv/
+
+# Environment variables (Crucial for security)
+.env
